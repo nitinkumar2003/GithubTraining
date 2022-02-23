@@ -1,2 +1,0 @@
-# GithubTraining
-Indian Defence Ministory
